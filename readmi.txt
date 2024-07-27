@@ -1,0 +1,8 @@
+путь к jdk:
+                            C:\Users\shevc\.jdks\corretto-17.0.9\bin>
+проект расположен по пути:
+                            C:\Projects\Java\shift\src\Main.java
+примеры запуска в cmd:
+    C:\Users\shevc\.jdks\corretto-17.0.9\bin>java C:\Projects\Java\shift\src\Main.java -s -o /path -p sample_ in2.txt in1.txt
+    C:\Users\shevc\.jdks\corretto-17.0.9\bin>java C:\Projects\Java\shift\src\Main.java -f -o /path/temp -p __ in2.txt in1.txt
+    C:\Users\shevc\.jdks\corretto-17.0.9\bin>java C:\Projects\Java\shift\src\Main.java -f -a -o /path in2.txt in1.txt
